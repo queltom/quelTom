@@ -12,6 +12,6 @@
 - Currently pursuing a Master’s Degree in Computer Science and Engineering (LM-32), University of Verona, expected graduation soon – GPA: 3.93 / 4.0 🎯
 
   
-📦 Portfolio repository showcasing my university projects and academic work, [check out here](https://github.com/queltom/University-Progects).
+📦 Portfolio repository showcasing my university projects and academic work, [check out here](https://github.com/queltom/University-Projects){:target="_blank"}.
 
 🛠️ Currently working on a Flutter app: AI Hair Scanner, [check out here](#).
