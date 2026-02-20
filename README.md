@@ -14,4 +14,4 @@
   
 📦 Portfolio repository showcasing my university projects and academic work, <a href="https://github.com/queltom/University-Projects" target="_blank">check out here</a>.
 
-🛠️ Currently working on a Flutter app: AI Hair Scanner, [check out here](#).
+🛠️ Currently working on a Flutter app: AI Hair Scanner, [check out here](https://double-e-studio.github.io/AI-Hair-Scan/index.html).
