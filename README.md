@@ -8,8 +8,8 @@
 
 🎓 **Academic Achievements**
 
-- Bachelor’s Degree in Computer Science (L-31), University of Verona, graduated with summa cum laude (110/110 e lode) – GPA: 3.84 / 4.0 🏅
-- Currently pursuing a Master’s Degree in Computer Science and Engineering (LM-32), University of Verona, expected graduation soon – GPA: 3.93 / 4.0 🎯
+- Bachelor’s Degree in Computer Science (L-31), University of Verona, graduated with summa cum Laude (110/110 e lode) – GPA: 3.84 / 4.0 🏅
+- Master’s Degree in Computer Science and Engineering (LM-32), University of Verona, graduated with summa cum Laude (110/110 e lode) – GPA: 3.93 / 4.0 🎯
 
   
 📦 Portfolio repository showcasing my university projects and academic work, <a href="https://github.com/queltom/University-Projects" target="_blank">check out here</a>.
